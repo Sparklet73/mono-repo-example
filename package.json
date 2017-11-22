@@ -11,6 +11,6 @@
     "lerna-changelog": "^0.2.3"
   },
   "scripts": {
-    "build": "echo \"mono-repo\""
+    "build": "echo \"mono-repo add hook\""
   }
 }
