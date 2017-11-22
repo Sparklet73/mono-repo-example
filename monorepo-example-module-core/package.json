@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "echo \"mono-repo-core hook affect and specific\""
+    "build": "echo \"mono-repo-core hook affect and specific2\""
   },
   "author": "",
   "license": "MIT"
