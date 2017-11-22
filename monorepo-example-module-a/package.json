@@ -7,7 +7,6 @@
     "build": "echo \"mono-repo-a\""
   },
   "dependencies": {
-    "monorepo-example-module-core": "^0.0.2"
   },
   "author": "",
   "license": "MIT"
