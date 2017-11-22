@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "echo \"mono-repo-a\" && exit 1"
+    "build": "echo \"mono-repo-a\""
   },
   "dependencies": {
     "monorepo-example-module-core": "^0.0.2"

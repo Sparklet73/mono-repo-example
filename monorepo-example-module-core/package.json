@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "echo \"mono-repo-core\" && exit 1"
+    "build": "echo \"mono-repo-core\""
   },
   "author": "",
   "license": "MIT"
