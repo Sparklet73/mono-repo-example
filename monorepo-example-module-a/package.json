@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "echo \"mono-repo-a\""
+    "build": "echo \"mono-repo-a not trigger\""
   },
   "dependencies": {
   },
